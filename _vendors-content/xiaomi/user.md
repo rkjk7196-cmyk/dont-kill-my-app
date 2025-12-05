@@ -1,4 +1,4 @@
----
+redmi 9 ---
 manufacturer: 
     - xiaomi
 
@@ -159,3 +159,4 @@ On some XiaoMi phones, several settings options are hidden from you. Luckily, th
 * [**MIUI Hidden Settings Activity Launcher, poco, note** from More by NetVor - Android Solutions](https://play.google.com/store/apps/details?id=com.netvor.hiddensettings)
 
 * [**MQS - Quick Settings for MIUI** from Ruby Faick](https://play.google.com/store/apps/details?id=com.zonarmr.miuiengineermode)
+adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
